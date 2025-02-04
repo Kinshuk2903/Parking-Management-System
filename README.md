@@ -1,5 +1,4 @@
 # Parking-Management-System
-Parking Management System
 
 A C-based Parking Management System that automates vehicle parking operations for small to medium-sized facilities. It efficiently allocates parking slots, calculates parking fees based on duration, and enables vehicle search by registration number. Designed for malls and office buildings, the system is stable, user-friendly, and expandable with features like automated billing and a GUI.
 
