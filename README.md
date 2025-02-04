@@ -34,15 +34,17 @@ The Parking Management System is implemented in C and utilizes the following sta
 # Requirements
 GCC Compiler 9.3.0 or Later
 
+VS Code
+
 MinGW (For Windows users, to compile and run C programs)
 
-stdio.h (For standard input/output operations)
+`stdio.h` (For standard input/output operations)
 
-stdlib.h (For memory allocation and utility functions)
+`stdlib.h` (For memory allocation and utility functions)
 
-string.h (For handling string operations)
+`string.h` (For handling string operations)
 
-time.h (For tracking vehicle parking duration and calculations)
+`time.h` (For tracking vehicle parking duration and calculations)
 
 # Implementation & Testing
 
