@@ -3,7 +3,7 @@
 #include <string.h>
 #include <time.h>
 
-#define MAX_VEHICLES 10
+#define MAX_VEHICLES 200
 #define FEE_PER_HOUR 10 
 
 struct Vehicle 
