@@ -31,6 +31,19 @@ The Parking Management System is implemented in C and utilizes the following sta
 
 6. `Scalability`: Supports up to 100 vehicles and can be expanded further.
 
+# Requirements
+GCC Compiler 9.3.0 or Later
+
+MinGW (For Windows users, to compile and run C programs)
+
+stdio.h (For standard input/output operations)
+
+stdlib.h (For memory allocation and utility functions)
+
+string.h (For handling string operations)
+
+time.h (For tracking vehicle parking duration and calculations)
+
 # Implementation & Testing
 
 The system is implemented in C with standard file handling for data persistence. Key functionalities such as data loading, slot allocation, and fee calculation are tested under various scenarios, including:
